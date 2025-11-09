@@ -8,3 +8,7 @@ __pycache__/
 
 # Cross-reference SQL files (too large - download from source)
 cross_references_*.sql
+
+# Generated embeddings and vector indexes (rebuild using scripts)
+embeddings/
+faiss_index/
