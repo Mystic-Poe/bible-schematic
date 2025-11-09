@@ -1,0 +1,47 @@
+# Exodus
+
+**Testament:** Old
+**Book Number:** 2
+**Chapters:** 39
+
+## Chapters
+
+- [[Exodus/Chapter_1|Chapter 1]]
+- [[Exodus/Chapter_2|Chapter 2]]
+- [[Exodus/Chapter_3|Chapter 3]]
+- [[Exodus/Chapter_4|Chapter 4]]
+- [[Exodus/Chapter_5|Chapter 5]]
+- [[Exodus/Chapter_6|Chapter 6]]
+- [[Exodus/Chapter_7|Chapter 7]]
+- [[Exodus/Chapter_8|Chapter 8]]
+- [[Exodus/Chapter_9|Chapter 9]]
+- [[Exodus/Chapter_10|Chapter 10]]
+- [[Exodus/Chapter_11|Chapter 11]]
+- [[Exodus/Chapter_12|Chapter 12]]
+- [[Exodus/Chapter_13|Chapter 13]]
+- [[Exodus/Chapter_14|Chapter 14]]
+- [[Exodus/Chapter_15|Chapter 15]]
+- [[Exodus/Chapter_16|Chapter 16]]
+- [[Exodus/Chapter_17|Chapter 17]]
+- [[Exodus/Chapter_18|Chapter 18]]
+- [[Exodus/Chapter_19|Chapter 19]]
+- [[Exodus/Chapter_20|Chapter 20]]
+- [[Exodus/Chapter_21|Chapter 21]]
+- [[Exodus/Chapter_22|Chapter 22]]
+- [[Exodus/Chapter_23|Chapter 23]]
+- [[Exodus/Chapter_24|Chapter 24]]
+- [[Exodus/Chapter_25|Chapter 25]]
+- [[Exodus/Chapter_26|Chapter 26]]
+- [[Exodus/Chapter_27|Chapter 27]]
+- [[Exodus/Chapter_28|Chapter 28]]
+- [[Exodus/Chapter_29|Chapter 29]]
+- [[Exodus/Chapter_30|Chapter 30]]
+- [[Exodus/Chapter_31|Chapter 31]]
+- [[Exodus/Chapter_32|Chapter 32]]
+- [[Exodus/Chapter_33|Chapter 33]]
+- [[Exodus/Chapter_35|Chapter 35]]
+- [[Exodus/Chapter_36|Chapter 36]]
+- [[Exodus/Chapter_37|Chapter 37]]
+- [[Exodus/Chapter_38|Chapter 38]]
+- [[Exodus/Chapter_39|Chapter 39]]
+- [[Exodus/Chapter_40|Chapter 40]]
