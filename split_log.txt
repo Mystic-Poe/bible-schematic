@@ -1,0 +1,145 @@
+Hybrid Smart Splitter v5 — Log
+🔎 Phase A: fast regex scan…
+📖 [FAST] Genesis → page 3
+📖 [FAST] Exodus → page 89
+📖 [FAST] Leviticus → page 160
+📖 [FAST] Numbers → page 212
+📖 [FAST] Proverbs → page 257
+📖 [FAST] Deuteronomy → page 287
+📖 [FAST] Joshua → page 347
+📖 [FAST] Judges → page 389
+📖 [FAST] Micah → page 420
+📖 [FAST] Ruth → page 430
+📖 [FAST] Zechariah → page 620
+📖 [FAST] Ezra → page 742
+📖 [FAST] Nehemiah → page 759
+📖 [FAST] Esther → page 784
+📖 [FAST] Job → page 797
+📖 [FAST] Psalms → page 845
+📖 [FAST] Ecclesiastes → page 1000
+📖 [FAST] Song of Solomon → page 1013
+📖 [FAST] Isaiah → page 1020
+📖 [FAST] Jeremiah → page 1101
+📖 [FAST] Lamentations → page 1192
+📖 [FAST] Ezekiel → page 1201
+📖 [FAST] Daniel → page 1283
+📖 [FAST] Hosea → page 1308
+📖 [FAST] Joel → page 1320
+📖 [FAST] Amos → page 1325
+📖 [FAST] Obadiah → page 1334
+📖 [FAST] Jonah → page 1336
+📖 [FAST] Nahum → page 1346
+📖 [FAST] Habakkuk → page 1349
+📖 [FAST] Zephaniah → page 1353
+📖 [FAST] Haggai → page 1357
+📖 [FAST] Malachi → page 1374
+📖 [FAST] Matthew → page 1378
+📖 [FAST] Mark → page 1434
+📖 [FAST] James → page 1451
+📖 [FAST] Luke → page 1470
+📖 [FAST] John → page 1531
+📖 [FAST] Acts → page 1577
+📖 [FAST] Romans → page 1634
+📖 [FAST] Galatians → page 1695
+📖 [FAST] Ephesians → page 1703
+📖 [FAST] Philippians → page 1711
+📖 [FAST] Colossians → page 1717
+📖 [FAST] Titus → page 1741
+📖 [FAST] Philemon → page 1744
+📖 [FAST] Hebrews → page 1746
+📖 [FAST] Jude → page 1787
+📖 [FAST] Revelation → page 1789
+
+Fast scan found 49/66 books.
+
+⚠️ Issues detected (missing or out-of-order). Switching to Phase B…
+
+🩺 Fallback: font-aware scan for missing titles...
+🆗 [FALLBACK] 1 Samuel → page 490
+🆗 [FALLBACK] 2 Samuel → page 490
+🆗 [FALLBACK] 1 Kings → page 490
+🆗 [FALLBACK] 2 Kings → page 490
+🆗 [FALLBACK] 1 Chronicles → page 490
+🆗 [FALLBACK] 2 Chronicles → page 490
+🆗 [FALLBACK] 1 Corinthians → page 1636
+🆗 [FALLBACK] 2 Corinthians → page 1636
+🆗 [FALLBACK] 1 Thessalonians → page 1715
+🆗 [FALLBACK] 2 Thessalonians → page 1715
+🆗 [FALLBACK] 1 Timothy → page 1715
+🆗 [FALLBACK] 2 Timothy → page 1715
+🆗 [FALLBACK] 1 Peter → page 1459
+🆗 [FALLBACK] 2 Peter → page 1459
+🆗 [FALLBACK] 1 John → page 1459
+🆗 [FALLBACK] 2 John → page 1459
+🆗 [FALLBACK] 3 John → page 1459
+
+✂️ Writing PDFs…
+✅ Saved 01_Genesis.pdf (3–88)
+✅ Saved 02_Exodus.pdf (89–159)
+✅ Saved 03_Leviticus.pdf (160–211)
+✅ Saved 04_Numbers.pdf (212–286)
+✅ Saved 05_Deuteronomy.pdf (287–346)
+✅ Saved 06_Joshua.pdf (347–388)
+✅ Saved 07_Judges.pdf (389–429)
+✅ Saved 08_Ruth.pdf (430–489)
+✅ Saved 09_1_Samuel.pdf (490–489)
+✅ Saved 10_2_Samuel.pdf (490–489)
+✅ Saved 11_1_Kings.pdf (490–489)
+✅ Saved 12_2_Kings.pdf (490–489)
+✅ Saved 13_1_Chronicles.pdf (490–489)
+✅ Saved 14_2_Chronicles.pdf (490–741)
+✅ Saved 15_Ezra.pdf (742–758)
+✅ Saved 16_Nehemiah.pdf (759–783)
+✅ Saved 17_Esther.pdf (784–796)
+✅ Saved 18_Job.pdf (797–844)
+✅ Saved 19_Psalms.pdf (845–256)
+✅ Saved 20_Proverbs.pdf (257–999)
+✅ Saved 21_Ecclesiastes.pdf (1000–1012)
+✅ Saved 22_Song_of_Solomon.pdf (1013–1019)
+✅ Saved 23_Isaiah.pdf (1020–1100)
+✅ Saved 24_Jeremiah.pdf (1101–1191)
+✅ Saved 25_Lamentations.pdf (1192–1200)
+✅ Saved 26_Ezekiel.pdf (1201–1282)
+✅ Saved 27_Daniel.pdf (1283–1307)
+✅ Saved 28_Hosea.pdf (1308–1319)
+✅ Saved 29_Joel.pdf (1320–1324)
+✅ Saved 30_Amos.pdf (1325–1333)
+✅ Saved 31_Obadiah.pdf (1334–1335)
+✅ Saved 32_Jonah.pdf (1336–419)
+✅ Saved 33_Micah.pdf (420–1345)
+✅ Saved 34_Nahum.pdf (1346–1348)
+✅ Saved 35_Habakkuk.pdf (1349–1352)
+✅ Saved 36_Zephaniah.pdf (1353–1356)
+✅ Saved 37_Haggai.pdf (1357–619)
+✅ Saved 38_Zechariah.pdf (620–1373)
+✅ Saved 39_Malachi.pdf (1374–1377)
+✅ Saved 40_Matthew.pdf (1378–1433)
+✅ Saved 41_Mark.pdf (1434–1469)
+✅ Saved 42_Luke.pdf (1470–1530)
+✅ Saved 43_John.pdf (1531–1576)
+✅ Saved 44_Acts.pdf (1577–1633)
+✅ Saved 45_Romans.pdf (1634–1635)
+✅ Saved 46_1_Corinthians.pdf (1636–1635)
+✅ Saved 47_2_Corinthians.pdf (1636–1694)
+✅ Saved 48_Galatians.pdf (1695–1702)
+✅ Saved 49_Ephesians.pdf (1703–1710)
+✅ Saved 50_Philippians.pdf (1711–1716)
+✅ Saved 51_Colossians.pdf (1717–1714)
+✅ Saved 52_1_Thessalonians.pdf (1715–1714)
+✅ Saved 53_2_Thessalonians.pdf (1715–1714)
+✅ Saved 54_1_Timothy.pdf (1715–1714)
+✅ Saved 55_2_Timothy.pdf (1715–1740)
+✅ Saved 56_Titus.pdf (1741–1743)
+✅ Saved 57_Philemon.pdf (1744–1745)
+✅ Saved 58_Hebrews.pdf (1746–1450)
+✅ Saved 59_James.pdf (1451–1458)
+✅ Saved 60_1_Peter.pdf (1459–1458)
+✅ Saved 61_2_Peter.pdf (1459–1458)
+✅ Saved 62_1_John.pdf (1459–1458)
+✅ Saved 63_2_John.pdf (1459–1458)
+✅ Saved 64_3_John.pdf (1459–1786)
+✅ Saved 65_Jude.pdf (1787–1788)
+✅ Saved 66_Revelation.pdf (1789–1815)
+
+🏁 Done. Check your Downloads/Bible_Split folder.
+Log written to: /storage/emulated/0/Download/Bible_Split/split_log.txt
