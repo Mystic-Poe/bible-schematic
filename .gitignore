@@ -1,0 +1,10 @@
+# Database file (too large for git - rebuild using scripts)
+bible.db
+
+# Temporary files
+*.pyc
+__pycache__/
+.DS_Store
+
+# Cross-reference SQL files (too large - download from source)
+cross_references_*.sql
